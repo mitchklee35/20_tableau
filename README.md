@@ -14,9 +14,7 @@ Analyze the data from the Citibike website and see if there are any correlations
 The data is in CSV format but if you want to only download the necessary data, the just use the ```.twbx``` files. 
 
 ### How to Run
-1. Open the ```.twbx``` files and run it within the worksheet. <br/>
-or 
-2. View the final product here <br/>
+1. View the final product here <br/>
 https://public.tableau.com/profile/mitch.klee#!/vizhome/MappedGrowth/MappedGrowth<br/>
 https://public.tableau.com/profile/mitch.klee#!/vizhome/Growthbyagegroup/Overallgrowthbyage
 
